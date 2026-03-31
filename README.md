@@ -4,7 +4,6 @@ Android app built in Kotlin to help my friend Cora stay connected with quick "so
 # Youtube Video
 Link: https://youtu.be/bv08BwffouM?si=KFU4ZGyKCUP-BpAc
 
-#Screenshots
 ## Main: 
 <img width="960" height="600" alt="main" src="https://github.com/user-attachments/assets/65580e4b-5a0f-42d6-a201-3f8c997889df" />
 
@@ -15,13 +14,9 @@ Link: https://youtu.be/bv08BwffouM?si=KFU4ZGyKCUP-BpAc
 <img width="1920" height="1200" alt="error" src="https://github.com/user-attachments/assets/1f7bf502-d45f-46b3-a077-a2186de0eae1" />
 
 
- Features
-Real-time suggestions while typing (TextWatcher)
-6 time-based social sparks (when statements)
-Visual feedback (green success, red errors)
-Professional logging (filter Logcat: CoraConnect)
-Submit + Reset buttons
-Error handling with motivational messages
+# Features
+Users can select from six time slots—morning, mid-morning, afternoon, snack, dinner, or night. 
+The interface includes a Submit button to save logs and a Reset button to wipe all existing entries.
 
 
 
